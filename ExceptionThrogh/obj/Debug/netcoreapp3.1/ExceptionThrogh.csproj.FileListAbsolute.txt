@@ -1,0 +1,12 @@
+/Users/tom/Desktop/C#/ExceptionThrogh/ExceptionThrogh/bin/Debug/netcoreapp3.1/ExceptionThrogh.deps.json
+/Users/tom/Desktop/C#/ExceptionThrogh/ExceptionThrogh/bin/Debug/netcoreapp3.1/ExceptionThrogh.runtimeconfig.json
+/Users/tom/Desktop/C#/ExceptionThrogh/ExceptionThrogh/bin/Debug/netcoreapp3.1/ExceptionThrogh.runtimeconfig.dev.json
+/Users/tom/Desktop/C#/ExceptionThrogh/ExceptionThrogh/bin/Debug/netcoreapp3.1/ExceptionThrogh.dll
+/Users/tom/Desktop/C#/ExceptionThrogh/ExceptionThrogh/bin/Debug/netcoreapp3.1/ExceptionThrogh.pdb
+/Users/tom/Desktop/C#/ExceptionThrogh/ExceptionThrogh/obj/Debug/netcoreapp3.1/ExceptionThrogh.csprojAssemblyReference.cache
+/Users/tom/Desktop/C#/ExceptionThrogh/ExceptionThrogh/obj/Debug/netcoreapp3.1/ExceptionThrogh.AssemblyInfoInputs.cache
+/Users/tom/Desktop/C#/ExceptionThrogh/ExceptionThrogh/obj/Debug/netcoreapp3.1/ExceptionThrogh.AssemblyInfo.cs
+/Users/tom/Desktop/C#/ExceptionThrogh/ExceptionThrogh/obj/Debug/netcoreapp3.1/ExceptionThrogh.csproj.CoreCompileInputs.cache
+/Users/tom/Desktop/C#/ExceptionThrogh/ExceptionThrogh/obj/Debug/netcoreapp3.1/ExceptionThrogh.dll
+/Users/tom/Desktop/C#/ExceptionThrogh/ExceptionThrogh/obj/Debug/netcoreapp3.1/ExceptionThrogh.pdb
+/Users/tom/Desktop/C#/ExceptionThrogh/ExceptionThrogh/obj/Debug/netcoreapp3.1/ExceptionThrogh.genruntimeconfig.cache
